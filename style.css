@@ -86,7 +86,7 @@ img {
  #steps .row .right{
    float: none;
    margin: 0px ;
-   width: 94vw;
+   width: 100vw;
    font-size:75%;
  }
 
@@ -109,7 +109,6 @@ img {
  h1{
   width: 100vw;
   margin-top: 0px;
-  padding: 0px;
  }
 
  img{
@@ -120,7 +119,7 @@ img {
  }
 
  #lezioni .row .right img{
-   width: 35vw;
+   width: 36vw;
  }
 
  #steps .row{
@@ -137,5 +136,10 @@ img {
  #why .row img{
    width: 15vw;
    padding: 10px;
+ }
+
+ hr{
+   width: 96vw;
+   margin:auto;
  }
 }
