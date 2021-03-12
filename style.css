@@ -85,7 +85,7 @@ img {
  #steps .row .central,
  #steps .row .right{
    float: none;
-   margin: 0px auto;
+   margin: 0px ;
    width: 94vw;
    font-size:75%;
  }
