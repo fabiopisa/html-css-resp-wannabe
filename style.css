@@ -103,7 +103,7 @@ img {
 
  .row{
   margin-top: 0px;
-  width: auto;
+  width: 100vw;
  }
 
  h1{
@@ -141,5 +141,9 @@ img {
  hr{
    width: 96vw;
    margin:auto;
+ }
+
+ #why .row .third{
+   padding-bottom: 5px;
  }
 }
